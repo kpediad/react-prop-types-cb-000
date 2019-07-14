@@ -22,5 +22,5 @@ Order.defaultProps = {
   cone: true,
   size: 'regular'
 };
- 
+
 Order.propTypes = {};
